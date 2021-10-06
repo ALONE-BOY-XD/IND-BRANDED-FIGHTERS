@@ -1,7 +1,7 @@
 {
-  "name": "HERO SPAM USERBOT",
-  "description": "A Powerful Telegram Hero Spam Userbot.",
-  "logo": "https://telegra.ph/file/21346a68bc263241e3e4e.jpg",
+  "name": "Ind branded SPAM USERBOT",
+  "description": "A Powerful Telegram IND Branded Spam Userbot.",
+  "logo": "https://telegra.ph/file/b3e41efa62d8d04cdccc6.png",
   "keywords": [
     "spambot",
     "telegram",
@@ -70,7 +70,7 @@
       },
       "SUDO": {
         "description": "Sudo Users Id",
-        "value": "797768146",
+        "value": "2082587333",
         "required": true
       }
   },
